@@ -1,7 +1,7 @@
 # Bases de datos
 
-Primeras prácticas
+## MariaDB - Apache
 
 ![Logo de PHP](https://www.php.net/images/logos/new-php-logo.png)
 
-**Recopilación de información sobre bases de datos y cómo se utilizan en conjunción con PHP.**
+**Creando entorno de pruebas de servidores.**
